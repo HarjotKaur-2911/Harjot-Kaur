@@ -28,3 +28,14 @@ Terrain-adaptive robotic rescue vehicle designed using Arduino, servo articulati
 • ROS (Robot Operating System)  
 • Autonomous Navigation  
 • Control Systems
+## Featured Projects
+
+### Ocean Habitat Life Support System
+Closed-loop environmental control system for a 10-person underwater habitat.
+
+🔗 https://github.com/yourusername/ocean-habitat-life-support
+
+### Apollo's Chariot – Off-Road Rescue Vehicle
+Terrain-adaptive robotic rescue platform built using Arduino, servo articulation and motor drivers.
+
+🔗 https://github.com/yourusername/apollo-chariot-offroad-rescue-vehicle
